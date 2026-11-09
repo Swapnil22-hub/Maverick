@@ -7,4 +7,7 @@
 
 1. java
 2. python
-3. maths 
+3. maths
+
+< Now my project is only to learn git 
+
